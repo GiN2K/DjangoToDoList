@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+
+#id_todo_field{
+    width: 100%;
+    height: 40px;
+}
+#add_btn {
+    width: 100%;
+    height: 40px;
+}
+ul {
+    list-style: none;
+}
+li{
+    font-size: 25px;
+    height: 60px;
+}
+ul button{
+    float: right;
+}
+#upper{
+    height: 200px;
+    background-color: azure;
+}
+#upper_inner{
+    padding-top: 60px;
+}
